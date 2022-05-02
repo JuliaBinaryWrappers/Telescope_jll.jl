@@ -1,6 +1,6 @@
 name = "Telescope_jll"
 uuid = "ae456e04-aaf2-55ce-80c6-09193969412e"
-version = "0.1.2+0"
+version = "0.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

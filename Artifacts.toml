@@ -1,100 +1,236 @@
 [[Telescope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d55d13f643fc1a7b7cd662d84a14ab5e23ac2fd2"
+git-tree-sha1 = "4ab7894fd675b2d1af6003f123356d2aa0dbe4f3"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "11fac31987b006d4dd674748f0cadf186b8a3a0d486c5ae2d08c1af9cfba89fd"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "329e3105003ec42a597ca61d5031f3faae8b825ec6d32d364b2e2775a53ca0b8"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Telescope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b795183348908d7f0743d0015ab1ff56cc8b201"
+git-tree-sha1 = "d465278541acd3bc8b156e7bf0d71b5adf93ab42"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "4e3d090778d8eb72e13f2b770f6bc68baa05c5e2d4c0de2bd9535da8a321014e"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1a75c81ce66c6e2c820439336fa67e4a5a4a2f31319eb49e6943220fd925e882"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Telescope]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "04ac29945985602bf959e7ac713bb31d9a6ac49d"
+git-tree-sha1 = "73f5a0162f1cc64fd69295034b3166dda8f9537d"
 libc = "musl"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "b5015656c059c396a1d4e98b65df7d4db69846d642cd08105ec86fd68d90d097"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "4eda84b5a7128be035238107724603926e0940240049b7de36962e3e09b107b5"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
 [[Telescope]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f5a75919b9502886c278f11e0b8d6209b84ebda"
+git-tree-sha1 = "2528138cf6020d0d193e72b7cb09648da574d8e0"
 libc = "musl"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "f91fbaf508ffbc90622c25fbe87e9ad00ec711f5295aeb5c1d6bf3f397f3ce6e"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "b2bc2347b5a6585a5e88ecaaaff8a52c23abefedadaf3c300dfdc344077c8295"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Telescope]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a7aeedb52849799631aa1ea4a62f02bef0597d63"
+libc = "glibc"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "00584d054e57a648cfe391647aaa9c06b482f1030ec74b2b2709b1fb7844a59e"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Telescope]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8988c9e5a15dbffea4c6d40fb308bd53f034040"
+libc = "glibc"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "b01332fd3ce9802f7d86dd6786405d1b4755dda2cc0c9b5db98236c85dc11cad"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Telescope]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47486123adddc9b3dda7c5f3c08fa8de6b1a7974"
+libc = "musl"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "82afd9c8c71cc8bed528700ebf54d52cdb4e14d9d8a6c2002b4c5fddb525d036"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Telescope]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ea8ca0042fe660e6a0165c52f4facfaa6fa88cf"
+libc = "musl"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "2260742e29efe501af6353ef030caf23e1fca9c116c8c761d843ddb9549cca62"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1c44dd791f0eb8da58ce1189ced163733e1a6741"
+libc = "glibc"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "8b9551eb316d0029622b0a2caf29601207ccac7c0c079ed1e3e5e61875dc59c5"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6cb3507e744f51ad572a6e6c7920188213050b58"
+libc = "glibc"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "79aba0ab5b62944a5f9feb0afe7d52d42434137f7f14299c756ec45d4ff616ea"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c27838ba590ddf0b27db3bfa072fcd7509bcf7c"
+libc = "musl"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "5be459df46ae6f791e13628761e4b11531e817acb55650d4891d6eaa167a6c23"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-linux-musl-cxx03.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44a1e801903cfbaadfe4b6434be4e242f981ba7f"
+libc = "musl"
+os = "linux"
+
+    [[Telescope.download]]
+    sha256 = "9d98a1d3a2e2cf48312e24c7c7edd43a82de19cd42ade03739abf57fa72c1ed2"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-linux-musl-cxx11.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a29a3d7ede2414d3fb38d12d5f7f6f7e01913a0"
+os = "windows"
+
+    [[Telescope.download]]
+    sha256 = "3dc47fef0e5f2b80df34ebf41b42985fd6aecf8cf4dc1cb1ae1ed703562ef5c4"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Telescope]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1df2a2279286f12d87196b22b9a06a09ace23b6b"
+os = "windows"
+
+    [[Telescope.download]]
+    sha256 = "7d9a94c95acc057c0734da62b7724c4d7e2da6416da4afaf76129321040e0bd9"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.i686-w64-mingw32-cxx11.tar.gz"
 [[Telescope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d83494b5bbda66dc7e909f3e1b3b081ef1021549"
+git-tree-sha1 = "da547b2012ba4b1cec46e49a3eeac580adc2cd4c"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "7b2e353a44897339dd55c4769374ac99bd312b8cfcaab88246bfb2f5c935976b"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "2cad18eb63b4b556cba86b3c80133bf4c22db7704875265fcf1b07cbd2fa9fa5"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Telescope]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7fb6ae6c42b816ac6f6ee1bc9866b56df4853675"
+git-tree-sha1 = "dc55baa8f8b7a8834857bf70ba619ca6346b54d8"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "2a06faf58500f7b1385c19ab12439259d8bbac27b4b2fb1d343ed5fc62f7c4d8"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "8efb5dd7411ec9cc1f0043828135ea3c84c964b4cfb021e71a63cb4d8292b937"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Telescope]]
+arch = "x86_64"
+git-tree-sha1 = "2063c5c896e25e8c0743d6e5f2a56e06b0a69082"
+os = "macos"
+
+    [[Telescope.download]]
+    sha256 = "f6ab2460b4f563ea8209ca326b40dbd02ba7de7a3c4c383df9f88324b2f3642b"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[Telescope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "58e6fb85b8738e6273172d5e104a509216f8708e"
+git-tree-sha1 = "58055978bf9fa376a51918fda0e53ea372c4b16a"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "a1d05a597fecb53133cd1fafa80b3d1e1e19243ca2262a932dac7a4e6dd786a9"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a9934b2eebb3cf84376bad960a247f42b320abcd9aabbdea42700cb56bb012ac"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Telescope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "74b167241e189c703cd4299c7e4c417733d8cd36"
+git-tree-sha1 = "652968b5a5268b98c467f36a5160bcc4db35fbbf"
 libc = "glibc"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "290579bb3bab3a396c07f3e9a9f11c5273ba78ea714d9312fbb3dbe46de2a949"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "703910d449128a21df67316fd33b0e6a6827c911c46d55f92c5a49c9c3226a42"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Telescope]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c90c40a5a7399be5bed5f3da6996b3b14fe55964"
+git-tree-sha1 = "8c3b6a0b7a402fd789069e0753caee37eda4d757"
 libc = "musl"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "c7a115bb80a84133add4c6b43973a478009447ed216616630c8ce86c70fbb069"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "df2b835da762882f861a4e5d166fc286b0d2c27291ef92b5b81aec114ea5f081"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Telescope]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "954fdce9f18f7559faafadead53756403d914e3f"
+git-tree-sha1 = "6bfe453f84339f50d6e5a03e3d028fbc88acf423"
 libc = "musl"
 os = "linux"
 
     [[Telescope.download]]
-    sha256 = "7f25d9383b7acd1649cb533dbd02da5dbd9062301e2d811ddf65f7ccfcf4747c"
-    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.1.2+0/Telescope.v0.1.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "94c11d2aa22926bc00334b1f985fdb5a258619089b4ca92d65d8ea794da43b95"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Telescope]]
+arch = "x86_64"
+git-tree-sha1 = "247fe40d127ad2caebdfc27feeef4ca939f78cbe"
+os = "freebsd"
+
+    [[Telescope.download]]
+    sha256 = "0c2daa493a2771381a662b1b1736716914db7671f9f10f8e01ba3b3de7c27545"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+[[Telescope]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "433c81bf6f1b200a1fe23910a93d451089f3da5c"
+os = "windows"
+
+    [[Telescope.download]]
+    sha256 = "3aa7fc78a5dcad51006b35c56cf34dd495ad358a890b754584381362745514d5"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Telescope]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4db7b1e487e0fea5f06759db798a310f5c1f0c1e"
+os = "windows"
+
+    [[Telescope.download]]
+    sha256 = "ef50e12341394b8c64675b5d79fd3cc65dec0bd9bf42200a7ac83db1deb22e59"
+    url = "https://github.com/JuliaBinaryWrappers/Telescope_jll.jl/releases/download/Telescope-v0.2.0+0/Telescope.v0.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
